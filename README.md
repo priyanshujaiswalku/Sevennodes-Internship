@@ -1,4 +1,4 @@
-# sevennodes-Internship
+# Sevennodes-Internship
 
 # 📄 PDF-LLM Chatbot
 
