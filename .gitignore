@@ -1,0 +1,10 @@
+.env
+token.json
+credentials.json
+GOOGLE_APPLICATION_CREDENTIALS.json
+uploads/
+content/
+.venv/
+__pycache__/
+chromadb/
+temp/
